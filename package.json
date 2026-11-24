@@ -1,0 +1,10 @@
+{
+  "name": "shoe-shop-app",
+  "version": "1.0.0",
+  "description": "Shoe and clothes shop: storefront, sizes and stock, orders, owner app (no dependencies).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test --test-force-exit" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
